@@ -1,3 +1,6 @@
+GITHUB LINK 
+https://github.com/j4ckg59/PythonGame.git
+
 OVERVIEW 
 This is a number guessing game where the player must guess a randomly generated number between 1 and 100 within five attempts. More points are awarded for guessing the number in fewer attempts. Points are also awarded based on how close the player's closest guess was to the correct number.
 
